@@ -1,0 +1,10 @@
+C:\Users\usuario\source\repos\TanteadorTiempo\TanteadorTiempo\bin\Debug\TanteadorTiempo.exe.config
+C:\Users\usuario\source\repos\TanteadorTiempo\TanteadorTiempo\bin\Debug\TanteadorTiempo.exe
+C:\Users\usuario\source\repos\TanteadorTiempo\TanteadorTiempo\bin\Debug\TanteadorTiempo.pdb
+C:\Users\usuario\source\repos\TanteadorTiempo\TanteadorTiempo\obj\Debug\TanteadorTiempo.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\TanteadorTiempo\TanteadorTiempo\obj\Debug\TanteadorTiempo.Form1.resources
+C:\Users\usuario\source\repos\TanteadorTiempo\TanteadorTiempo\obj\Debug\TanteadorTiempo.Properties.Resources.resources
+C:\Users\usuario\source\repos\TanteadorTiempo\TanteadorTiempo\obj\Debug\TanteadorTiempo.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\TanteadorTiempo\TanteadorTiempo\obj\Debug\TanteadorTiempo.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\TanteadorTiempo\TanteadorTiempo\obj\Debug\TanteadorTiempo.exe
+C:\Users\usuario\source\repos\TanteadorTiempo\TanteadorTiempo\obj\Debug\TanteadorTiempo.pdb
